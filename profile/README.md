@@ -1,4 +1,10 @@
-## Hi there 👋
+## E lá vamos nós 🚀
+
+
+![index](https://raw.githubusercontent.com/Sr-Robo/.github/refs/heads/main/profile/elavamosnos.gif)
+
+
+
 
 <!--
 
